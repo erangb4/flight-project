@@ -1,0 +1,171 @@
+2022-03-01 19:37:53,040:AnonymousFacade:20108:15432:INFO:wrong user: Boris or password: 123
+2022-03-01 19:42:36,527:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but origin_country_id or destination_country_id is illegal.
+2022-03-01 19:42:36,852:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but origin_country_id or destination_country_id is illegal.
+2022-03-01 19:42:37,535:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but the departure date is illegal
+2022-03-01 19:42:38,134:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is not exist.
+2022-03-01 19:42:39,087:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is illegal.
+2022-03-01 19:42:39,428:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is not exist.
+2022-03-01 19:42:40,016:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:42:41,117:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:42:41,551:FacadeBase:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:42:41,840:AnonymousFacade:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:42:42,124:AnonymousFacade:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is not a User instance.
+2022-03-01 19:42:42,410:AnonymousFacade:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:42:42,725:AnonymousFacade:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:42:43,039:AnonymousFacade:14664:20756:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:43:58,054:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but origin_country_id or destination_country_id is illegal.
+2022-03-01 19:43:58,344:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but origin_country_id or destination_country_id is illegal.
+2022-03-01 19:43:58,972:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but the departure date is illegal
+2022-03-01 19:43:59,632:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is not exist.
+2022-03-01 19:44:00,638:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is illegal.
+2022-03-01 19:44:01,014:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is not exist.
+2022-03-01 19:44:01,685:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:44:02,614:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:44:03,038:FacadeBase:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:44:03,379:AnonymousFacade:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:03,687:AnonymousFacade:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is not a User instance.
+2022-03-01 19:44:04,008:AnonymousFacade:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:04,297:AnonymousFacade:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:04,614:AnonymousFacade:19612:20520:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:21,808:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but origin_country_id or destination_country_id is illegal.
+2022-03-01 19:44:22,098:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but origin_country_id or destination_country_id is illegal.
+2022-03-01 19:44:22,777:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get flights by parameters but the departure date is illegal
+2022-03-01 19:44:23,469:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is not exist.
+2022-03-01 19:44:24,446:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is illegal.
+2022-03-01 19:44:24,800:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get airline by id but the id is not exist.
+2022-03-01 19:44:25,500:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:44:26,394:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:44:26,735:FacadeBase:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to get country by id but the id is illegal.
+2022-03-01 19:44:27,063:AnonymousFacade:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:27,403:AnonymousFacade:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is not a User instance.
+2022-03-01 19:44:27,683:AnonymousFacade:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:27,967:AnonymousFacade:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:44:28,253:AnonymousFacade:14372:15432:ERROR:LoginToken[id_=None, name="Anonymous", role="Anonymous"] tried to create user but the user is already exist.
+2022-03-01 19:46:34,394:AnonymousFacade:19868:25120:INFO:wrong user: Boris or password: 123
+2022-06-22 17:33:09,696:Db_Config:3660:13580:CRITICAL:The database did not found, please check the connection string
+2022-06-22 17:33:09,704:Db_Repo:3660:13580:CRITICAL:Tried to create all sp from the the file "sp_flights_db.sql" but file was not found
+2022-06-22 17:33:13,819:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:17,942:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:22,024:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:26,099:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:30,159:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:34,228:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:38,329:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:42,401:Db_Repo:3660:13580:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:33:54,038:Db_Config:16528:13592:CRITICAL:The database did not found, please check the connection string
+2022-06-22 17:33:54,038:Db_Repo:16528:13592:CRITICAL:Tried to create all sp from the the file "sp_flights_db.sql" but file was not found
+2022-06-22 17:33:58,151:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:02,202:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:06,263:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:10,334:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:14,414:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:18,482:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:22,562:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:26,604:Db_Repo:16528:13592:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5431 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:45,808:Db_Config:7316:10648:CRITICAL:The database did not found, please check the connection string
+2022-06-22 17:34:45,809:Db_Repo:7316:10648:CRITICAL:Tried to create all sp from the the file "sp_flights_db.sql" but file was not found
+2022-06-22 17:34:45,835:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:45,871:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:45,923:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:45,950:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:45,998:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:46,030:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:46,085:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:46,128:Db_Repo:7316:10648:CRITICAL:(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "databases/big_project" does not exist
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-06-22 17:34:52,961:Db_Repo:20784:6056:CRITICAL:Tried to create all sp from the the file "sp_flights_db.sql" but file was not found

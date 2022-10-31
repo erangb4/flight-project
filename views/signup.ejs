@@ -1,0 +1,71 @@
+<%- include('partials/header'); -%>
+
+<form action="/signup">
+  <h2>Sign up</h2>
+  <label for="email">Email</label>
+  <input type="text" name="email" required />
+  <div class="email error"></div>
+  <label for="password">Password</label>
+  <input type="password" name="password" required />
+  <div class="password error"></div>
+  <label for="first_name">First name</label>
+  <input type="text" name="first_name" required />
+  <div class="first_name error"></div>
+  <label for="last_name">Last name</label>
+  <input type="text" name="last_name" required />
+  <div class="last_name error"></div>
+  <label for="phone">Phone</label>
+  <input type="text" name="phone" required />
+  <div class="phone error"></div>
+  <label for="credit_card">Credit card</label>
+  <input type="text" name="credit_card" required />
+  <div class="credit_card error"></div>
+  <button>Sign up</button>
+</form>
+
+<%- include('partials/footer'); -%>
+
+<script>
+  const form = document.querySelector('form');
+  const emailError = document.querySelector('.email.error');
+  const passwordError = document.querySelector('.password.error');
+  const first_nameError = document.querySelector('.first_name.error');
+  const last_nameError = document.querySelector('.last_name.error');
+  const phoneError = document.querySelector('.phone.error');
+  const credit_cardError = document.querySelector('.credit_card.error');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    // get values
+    const email = form.email.value;
+    const password = form.password.value;
+    const first_name = form.first_name.value;
+    const last_name = form.last_name.value;
+    const phone = form.phone.value;
+    const credit_card = form.credit_card.value;
+
+    try {
+      const res = await fetch('/signup', { 
+        method: 'POST', 
+        body: JSON.stringify({ email, password, first_name, last_name, phone, credit_card }),
+        headers: {'Content-Type': 'application/json'}
+      });
+      const data = await res.json();
+      console.log(data);
+      if (data.errors) {
+        emailError.textContent = data.errors.email;
+        passwordError.textContent = data.errors.password;
+        first_nameError.textContent = data.errors.first_name;
+        last_nameError.textContent = data.errors.last_name;
+        phoneError.textContent = data.errors.phone;
+        credit_cardError.textContent = data.errors.credit_card;
+      }
+      if (data.user) {
+        location.assign('/');
+      }
+    }
+    catch (err) {
+      console.log(err);
+    }
+  });
+</script>

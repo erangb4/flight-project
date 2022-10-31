@@ -1,0 +1,56 @@
+
+<DbGenWidget>:
+    airline_companies: airline_companies
+    customers: customers
+    flights_per_company: flights_per_company
+    tickets_per_customer: tickets_per_customer
+    my_progress_bar: my_progress_bar
+
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        GridLayout:
+            cols:2
+
+
+            Label:
+                text: "Airline Companies: "
+            TextInput:
+                id: airline_companies
+                multinline:False
+            Label:
+                text: "Customers: "
+            TextInput:
+                id: customers
+                multiline:False
+            Label:
+                text: "Flights Per Company: "
+            TextInput:
+                id: flights_per_company
+                multiline:False
+            Label:
+                text: "Tickets Per Customer: "
+            TextInput:
+                id: tickets_per_customer
+                multinline:False
+
+        Button:
+            text:"Add to DB"
+            on_press: root.btn()
+
+        BoxLayout:
+            orientation: 'vertical'
+            size: root.width, root.height
+
+            ProgressBar:
+                id: my_progress_bar
+                value: 0
+                min: 0
+                max: 100
+                pos_hint: {'x': 0.1}
+                size_hint_x: 0.8
+
+        Label:
+            id: alerts_label
+            text: root.alerts_label

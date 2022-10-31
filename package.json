@@ -1,0 +1,32 @@
+{
+  "name": "node_express_auth_jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy": "^0.0.8",
+    "amqplib": "^0.10.3",
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.8",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^2.3.0",
+    "logger": "^0.0.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.12",
+    "pg": "^8.8.0",
+    "pika": "^0.0.1-security",
+    "uuid": "^9.0.0",
+    "validator": "^13.7.0",
+    "winston": "^3.8.2"
+  }
+}
